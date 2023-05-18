@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Olebogeng Rasebitse</h1>
 <h3 align="center">A software development student from Rustenburg South Africa.</h3>
 
+<h3 align="left"> Personal Stament</h3>
+<p align="left"> Passionate software development student with a drive for continuous learning and a focus on becoming a versatile full-stack developer. Self-motivated and committed to completing projects with enthusiasm. Seeking opportunities to contribute to impactful software solutions. </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olebogengrasebitse&label=Profile%20views&color=0e75b6&style=flat" alt="olebogengrasebitse" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olebogengrasebitse" alt="olebogengrasebitse" /></a> </p>
 
-- 👨‍💻 My project is available at [https://github.com/OlebogengRasebitse/PATRAS995_BCL2302_Justin_OlebogengRasebitse_IWA19.git](https://github.com/OlebogengRasebitse/PATRAS995_BCL2302_Justin_OlebogengRasebitse_IWA19.git)
+- 👨‍💻 My project(Book Connect) is available at [https://github.com/OlebogengRasebitse/PATRAS995_BCL2302_Justin_OlebogengRasebitse_IWA19.git](https://github.com/OlebogengRasebitse/PATRAS995_BCL2302_Justin_OlebogengRasebitse_IWA19.git)
 
 
 - 📫 How to reach me **patiencerasebitse@gmail.com**
