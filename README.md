@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since February 2023<br>📚 I'm currently learning Nextjs<br>🎯 Goals: Become a full-stack Javascript developer.</p>
+<p align="left">✨ Creating bugs since February 2023.<br>📚 I'm currently learning SQL.<br>🎯 Goals: Become a full-stack Javascript developer.</p>
 
 ###
 
@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextJS logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
