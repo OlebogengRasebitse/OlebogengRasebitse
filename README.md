@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Passionate software development student with a drive for continuous learning and a focus on becoming a versatile full-stack developer. Self-motivated and committed to completing projects with enthusiasm. Seeking opportunities to contribute to impactful software solutions.</p>
+<p align="left">Passionate software development student with a drive for continuous learning and a focus on becoming a versatile Front-End developer. Self-motivated and committed to completing projects with enthusiasm. Seeking opportunities to contribute to impactful software solutions.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since February 2023.<br>📚 I'm currently learning SQL.<br>🎯 Goals: Become a full-stack Javascript developer.</p>
+<p align="left">✨ Creating bugs since February 2023.<br>📚 I'm currently learning SQL.<br>🎯 Goals: To become a Front-End developer.</p>
 
 ###
 
